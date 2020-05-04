@@ -1,0 +1,21 @@
+name: transposition1-env
+
+channels:
+ - conda-forge
+ - anaconda
+ - bioconda
+
+dependencies:
+ - python=3.7 
+ - ipykernel 
+ - snakemake 
+ - numpy 
+ - matplotlib
+ - pillow
+ - scipy
+ - scikit-image
+ - imageio
+ - dipy
+ - opencv
+
+
